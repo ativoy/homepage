@@ -1,9 +1,6 @@
 body {
     background:#fefefe;
 }
-section {
-    background: gainsboro;
-}
 
 h1 {
     color:#1460aa;
@@ -19,9 +16,6 @@ footer {
 }
 .navy-header{
     color:navy
-}
-#top{
-    background-color: lightpink
 }
 a{
     color: brown

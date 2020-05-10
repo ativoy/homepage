@@ -1,10 +1,3 @@
-body {
-    background:#fefefe;
-}
-section {
-    background: limegreen;
-}
-
 h1 {
     color:#1460aa;
 }
@@ -19,7 +12,6 @@ p {
 }
 footer {
     color: blue;
-    background-color: chartreuse;
     font-style: italic; 
 }
 .hotpink-header{
@@ -27,9 +19,6 @@ footer {
 }
 .navy-header{
     color:navy
-}
-#top{
-    background-color: orange;
 }
 a{
     color:brown
