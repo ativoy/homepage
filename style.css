@@ -1,0 +1,39 @@
+body {
+    background:#fefefe;
+}
+section {
+    background: limegreen;
+}
+
+h1 {
+    color:#1460aa;
+}
+h2 {
+    color: #1460aa;
+}
+h3 {
+    color: #1460aa;
+}
+p {
+    color:black;
+}
+footer {
+    color: blue;
+    background-color: chartreuse;
+    font-style: italic; 
+}
+.hotpink-header{
+    color:navy
+}
+.navy-header{
+    color:navy
+}
+#top{
+    background-color: orange;
+}
+a{
+    color:brown
+}
+nav a{
+    color:blueviolet
+}

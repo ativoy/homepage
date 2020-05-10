@@ -1,0 +1,31 @@
+body {
+    background:#fefefe;
+}
+section {
+    background: gainsboro;
+}
+
+h1 {
+    color:#1460aa;
+}
+h2 {
+    color: #1460aa;
+}
+p {
+    color:black;
+}
+footer {
+    font-style: italic; 
+}
+.navy-header{
+    color:navy
+}
+#top{
+    background-color: lightpink
+}
+a{
+    color: brown
+}
+nav a{
+    color:blueviolet
+}
